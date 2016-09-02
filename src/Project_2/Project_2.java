@@ -5,10 +5,9 @@
  */
 package Project_2;
 
-/**
- *
- * @author eulog
- */
+/* 
+    Eulogio Castro
+*/
 public class Project_2 {
     
 }

@@ -1,9 +1,6 @@
 package hellosac;
 
-/**
- *
- * @author Eulogio Castro
- */
+/* Eulogio Castro */
 public class HelloSAC {
 
     public static void main(String[] args) {
